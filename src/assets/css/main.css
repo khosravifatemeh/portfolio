@@ -34,6 +34,9 @@ body{
     overflow: hidden;
     display: block;
     padding-top: 80%;
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(135,124,135,1);
+-moz-box-shadow: 0px 0px 10px 0px rgba(135,124,135,1);
+box-shadow: 0px 0px 10px 0px rgba(135,124,135,1);
 }
 .parent-img img{
     position: absolute;

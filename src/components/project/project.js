@@ -33,7 +33,7 @@ const project = () => {
                                     </a>
                                 </div>
                                 <div className="col-sm-12 col-md-6 col-lg-4 text-right pb-4">
-                                    <a href="http://dunzhe.net/" target="blank" className="portfolio__item text-decoration-none">
+                                    <a href="https://garaj24.net/" target="blank" className="portfolio__item text-decoration-none">
                                         <div className="parent-img">
                                             <img src={garaj} />
                                         </div>
