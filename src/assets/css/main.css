@@ -1,0 +1,136 @@
+body{
+    font-family: IRANSans !important;
+    font-style: normal;
+    font-weight: normal;
+    direction: rtl;
+    overflow-x:hidden ;
+}
+:root{
+    --orange:#ff5e00;
+    --gray:#999;
+    --header-fontsize:28px;
+    --normal-fontsize:15px;
+    --bg-gray:#f7f7f7
+}
+.about__header,.about__description{
+    color: var(--gray);
+}
+.about__header{
+    font-size: var(--header-fontsize);
+}
+.about__description{
+    font-size: var(--normal-fontsize);
+
+}
+.portfolio__tab a,.portfolio__tab a:hover{
+    color: var(--gray);
+}
+.portfolio__tab a.active{
+    color: var(--orange) !important;
+}
+
+.parent-img{
+    position: relative;
+    overflow: hidden;
+    display: block;
+    padding-top: 80%;
+}
+.parent-img img{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    bottom: 0;
+    object-fit: contain;
+}
+.email, .phone,.linkedin{
+    width: 18px;
+    height: 22px;
+    background-size:contain ;
+    background-repeat: no-repeat;
+}
+.nav__link{
+    color: #444;
+}
+.nav__link:hover{
+    color: #444;
+}
+.linkedin{
+    background-image: url('./../images/svg/linkedin.svg');
+
+}
+.email{
+    background-image: url('./../images/svg/email.svg');
+}
+.phone{
+    background-image: url('./../images/svg/call-answer.svg');
+}
+.portfolio{
+    padding: 90px 0;
+}
+.portfolio__item{
+    color: var(--gray);
+}
+.portfolio__item:hover{
+    color: var(--orange);
+}
+.about{
+    padding-top:150px ;
+    background-color: var(--bg-gray);
+    padding-bottom: 120px;
+}
+.contact{
+    background-color: var(--bg-gray);
+color: var(--gray);
+}
+.about-image{
+    border:20px solid var(--orange)
+}
+.about-image img{
+    margin-left: -34px;
+    margin-top: -42px;
+    margin-bottom: 34px;
+}
+
+.logo img{
+    width: auto;
+    height: auto;
+}
+.main-nav{
+    box-shadow: 0 2px 92px 0 rgba(0,0,0,.18);
+    position: fixed;
+    right: 0;
+    left: 0;
+    background-color: #fff;
+    z-index: 1000;
+
+}
+.nav-icon{
+    display: inherit;
+    width: 40px;
+    height: 4px;
+    border-radius: 5px;
+    background-color: #444;
+}
+@media(max-width:767px){
+    .about-image img{
+        margin:0px !important
+    }
+    .main-nav__content{
+        display: none;
+        position: absolute;
+        width: 100%;
+        background: #fff;
+        right: 0;
+        left: 0;
+        top: 60px;
+      
+    }
+}
+
+header{
+    background: url('./../images/jpg/home-bg.jpg') repeat scroll center center/cover;
+    height: 100vh;
+    width: 100%;
+}
