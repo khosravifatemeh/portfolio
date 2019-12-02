@@ -47,7 +47,7 @@ const header = () => {
             </nav>
             <header>
                 <div className="container h-100">
-                    <div className="header-content d-flex flex-column align-items-start justify-content-center h-100 text-white">
+                    <div className="header-content d-flex flex-column align-items-start justify-content-center h-100">
                         <h1>فاطمه خسروی</h1>
                         <p>برنامه نویس وب و موبایل</p>
                     </div>
