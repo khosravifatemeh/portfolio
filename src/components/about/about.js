@@ -11,8 +11,7 @@ const about = () => {
                         <img src={photo} className="w-100" />
                     </div>
                 </div> */}
-                
-                    <div className="col-12 col-md-10 b">
+                         <div className="col-12 col-md-10 b">
                         <div className="d-flex flex-column text-right h-100 justify-content-center mt-3 a">
                             {/* <p className="about__header"></p> */}
        
