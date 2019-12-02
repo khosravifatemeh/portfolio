@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.04f6f6f7.chunk.css",
-    "main.js": "/portfolio/static/js/main.f484d58e.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.f484d58e.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.67b7abc5.chunk.css",
+    "main.js": "/portfolio/static/js/main.65390375.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.65390375.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.86a05020.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.86a05020.js.map",
     "static/css/2.17e5ed98.chunk.css": "/portfolio/static/css/2.17e5ed98.chunk.css",
     "static/js/2.3431330a.chunk.js": "/portfolio/static/js/2.3431330a.chunk.js",
     "static/js/2.3431330a.chunk.js.map": "/portfolio/static/js/2.3431330a.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.eab005a22c24b7dd81c29f6c28cf0be7.js": "/portfolio/precache-manifest.eab005a22c24b7dd81c29f6c28cf0be7.js",
+    "precache-manifest.eb92c53dc3b9ece1262bcdaa83c72917.js": "/portfolio/precache-manifest.eb92c53dc3b9ece1262bcdaa83c72917.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/portfolio/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.04f6f6f7.chunk.css.map": "/portfolio/static/css/main.04f6f6f7.chunk.css.map",
+    "static/css/main.67b7abc5.chunk.css.map": "/portfolio/static/css/main.67b7abc5.chunk.css.map",
     "static/media/fontiran.css": "/portfolio/static/media/IRANSansWeb(FaNum)_UltraLight.f4aa344c.woff2",
     "static/media/main.css": "/portfolio/static/media/linkedin.4b475fb3.svg",
     "static/media/dunzhe.png": "/portfolio/static/media/dunzhe.0d16a6ab.png",
     "static/media/garaj.png": "/portfolio/static/media/garaj.f3874fd9.png",
     "static/media/iranroute.png": "/portfolio/static/media/iranroute.93246881.png",
-    "static/media/me.jpg": "/portfolio/static/media/me.a5d3886b.jpg",
+    "static/media/me-2.jpg": "/portfolio/static/media/me-2.3c1bb87d.jpg",
     "static/media/ucan.png": "/portfolio/static/media/ucan.96c370bf.png",
     "static/media/zibashu.png": "/portfolio/static/media/zibashu.c25437c4.png"
   },
@@ -26,7 +26,7 @@
     "static/js/runtime-main.86a05020.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.3431330a.chunk.js",
-    "static/css/main.04f6f6f7.chunk.css",
-    "static/js/main.f484d58e.chunk.js"
+    "static/css/main.67b7abc5.chunk.css",
+    "static/js/main.65390375.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3dda207b8b298cbae486c31a1771e4d",
+    "revision": "ec1081c8e5c6b19a9ca7ccaeaf297369",
     "url": "/portfolio/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "91fec79c58816fdbd190",
-    "url": "/portfolio/static/css/main.04f6f6f7.chunk.css"
+    "revision": "20a5d9f87ba7eced1436",
+    "url": "/portfolio/static/css/main.67b7abc5.chunk.css"
   },
   {
     "revision": "bd496541355ae501319f",
     "url": "/portfolio/static/js/2.3431330a.chunk.js"
   },
   {
-    "revision": "91fec79c58816fdbd190",
-    "url": "/portfolio/static/js/main.f484d58e.chunk.js"
+    "revision": "20a5d9f87ba7eced1436",
+    "url": "/portfolio/static/js/main.65390375.chunk.js"
   },
   {
     "revision": "6b26cb3bc1b9147ba086",
@@ -104,6 +104,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/IRANSansWeb(FaNum)_UltraLight.f4aa344c.woff2"
   },
   {
+    "revision": "29b0cef032b7ec63a80b9c344bd68678",
+    "url": "/portfolio/static/media/bg.29b0cef0.jpg"
+  },
+  {
     "revision": "a8f7f8cd72121312c67e15b103e71da3",
     "url": "/portfolio/static/media/call-answer.a8f7f8cd.svg"
   },
@@ -120,10 +124,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/garaj.f3874fd9.png"
   },
   {
-    "revision": "da56f2b9fedde87d14fb18bb8e9c5204",
-    "url": "/portfolio/static/media/home-bg.da56f2b9.jpg"
-  },
-  {
     "revision": "9324688170dcd729ed145e12585bded8",
     "url": "/portfolio/static/media/iranroute.93246881.png"
   },
@@ -132,8 +132,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/linkedin.4b475fb3.svg"
   },
   {
-    "revision": "a5d3886b8328534429fad2c109a348ed",
-    "url": "/portfolio/static/media/me.a5d3886b.jpg"
+    "revision": "3c1bb87d8228fcf25547571f57a20a4d",
+    "url": "/portfolio/static/media/me-2.3c1bb87d.jpg"
   },
   {
     "revision": "96c370bf27d75663a48b49a0efe26062",
